@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QQLiteNotify</string>
+    <string name="description">Improve the QQLite notification with android wear</string>
+</resources>
